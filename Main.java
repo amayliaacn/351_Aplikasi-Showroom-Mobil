@@ -79,7 +79,7 @@ public class Main {
                                         System.out.print("  Waktu Pembayaran    : ");
                                         waktu = in.next();
 
-                                        System.out.print("========== Data Pembelian ==========");
+                                        System.out.print("========== Data Customer ==========");
                                         System.out.print("\n  NIK     : ");
                                         nik = in.next();
                                         System.out.print("  Nama    : ");
@@ -137,7 +137,7 @@ public class Main {
                                         System.out.print("  Waktu Pembayaran    : ");
                                         waktu = in.next();
 
-                                        System.out.println("========== Data Pembelian ==========");
+                                        System.out.println("========== Data Customer ==========");
                                         System.out.print("\n  NIK     : ");
                                         nik = in.next();
                                         System.out.print("  Nama    : ");
@@ -194,7 +194,7 @@ public class Main {
                                         System.out.print("  Waktu Pembayaran    : ");
                                         waktu = in.next();
 
-                                        System.out.println("========== Data Pembelian ==========");
+                                        System.out.println("========== Data Customer ==========");
                                         System.out.print("\n  NIK     : ");
                                         nik = in.next();
                                         System.out.print("  Nama    : ");
@@ -251,7 +251,7 @@ public class Main {
                                         System.out.print("  Waktu Pembayaran    : ");
                                         waktu = in.next();
 
-                                        System.out.println("========== Data Pembelian ==========");
+                                        System.out.println("========== Data Customer ==========");
                                         System.out.print("\n  NIK     : ");
                                         nik = in.next();
                                         System.out.print("  Nama    : ");
@@ -308,7 +308,7 @@ public class Main {
                                         System.out.print("  Waktu Pembayaran    : ");
                                         waktu = in.next();
 
-                                        System.out.println("========== Data Pembelian ==========");
+                                        System.out.println("========== Data Customer ==========");
                                         System.out.print(" \n NIK     : ");
                                         nik = in.next();
                                         System.out.print("  Nama    : ");
@@ -368,7 +368,7 @@ public class Main {
                     warna = in.next();
                     System.out.print("  Harga   : ");
                     hargaAwal = in.nextLong();
-                    System.out.println("=========== Data Penjual ============");
+                    System.out.println("=========== Data Customer ============");
                     System.out.print("\n  NIK     : ");
                     nik = in.next();
                     System.out.print("  Nama    : ");
